@@ -2,3 +2,4 @@
 2305290 - Dota 2 Staging Server | [v] 3308 => 3309 | 2026-09-06 02:22:04 (UTC)
 2305270 - Dota 2 Staging | [v] 3308 => 3309 | 2026-09-06 02:48:29 (UTC)
 2305290 - Dota 2 Staging Server | [v] 3308 => 3309 | 2026-09-06 02:48:29 (UTC)
+570 - Dota 2 SDR Config | [s] None => 30454 | 2026-09-06 03:16:10 (UTC)
